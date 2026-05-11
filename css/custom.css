@@ -177,6 +177,12 @@
     "liga" 0;
   src: url(/css/fontfile.woff2) format("woff2");
 }
+@font-face {
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 1 1000;
+    src: local('☺'), url(/css/SFPro.woff2) format("woff2-variations"), url(/wss/fonts/SF-Pro/v4/SFPro.woff2) format("woff2"), url(/wss/fonts/SF-Pro/v4/SFPro.ttf) format("truetype-variations"), url(/wss/fonts/SF-Pro/v4/SFPro.ttf) format("truetype");
+}
 .main_76o8f0vmh6 {
   font-weight: 400;
 }
