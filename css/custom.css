@@ -386,12 +386,12 @@ html {
   top: -40;
 }
 .main_7xbh3t4frl {
-  color: #202124;
-  background: #fff;
+  color: #001f27;
+  background: #e8f2f7;
   border-radius: 12px;
   font-weight: 500;
   font-size: 20px;
-  line-height: normal;
+  line-height: 24px;
   box-shadow: 0 2px 4px 0 rgba(32, 33, 36, 0.16);
   padding: 8px 14px;
   white-space: nowrap;
@@ -401,9 +401,9 @@ html {
 .main_5of0r28i2r {
   font-size: 12px;
   font-weight: 400;
-  letter-spacing: 0.3px;
   line-height: 16px;
-  color: #70757a;
+  text-align: end;
+  color: #434749;
 }
 
 .main_cg3deofsqv {
@@ -411,14 +411,25 @@ html {
 }
 
 .main_gmz2ni67gr{
-vertical-align: 0.55ex;
+
     font-size: 14px;
 }
 .main_krlutb69wb{
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 6px;
 }
 .main_k7grtq423h{
   display: flex;
+  align-items: center;
+}
+.main_izrljutwf8{
+
+    font-size: 14px;
+     margin-right: 2px;
+}
+:focus-visible{
+      box-shadow: 0 0 0 2px #1a73e8;
+      outline: none;
 }
