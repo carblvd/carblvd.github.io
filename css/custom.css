@@ -1,6 +1,21 @@
 html {
   scrollbar-width: none;
 }
+      body {
+         background-color: #fff;
+         font-size: 17px;
+         line-height: 22px;
+         font-weight: 400;
+         margin: 0;
+         letter-spacing: normal;
+         color: #0a0a0a;
+         font-family: 'SF Pro';
+         -webkit-text-size-adjust: 100%;
+         font-synthesis: none;
+         -moz-font-feature-settings: "kern";
+         -webkit-font-smoothing: antialiased;
+         -moz-osx-font-smoothing: grayscale;
+         }
 .main_hzovnj640n {
   position: relative;
   overflow: hidden;
@@ -227,12 +242,6 @@ html {
   margin-right: -5px;
   width: 55px;
 }
-@font-face {
-  font-family: Market Sans;
-  font-style: normal;
-  font-weight: 400;
-  src: url(/MarketSans-Regular-WebS.woff2) format("woff2");
-}
 .main_lsa8dgn6lh {
   align-items: center;
   background: #fff;
@@ -399,4 +408,17 @@ html {
 
 .main_cg3deofsqv {
   position: relative;
+}
+
+.main_gmz2ni67gr{
+vertical-align: text-top;
+    font-size: 14px;
+}
+.main_krlutb69wb{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.main_k7grtq423h{
+  display: flex;
 }
